@@ -15,7 +15,7 @@
 - Android SDK - https://github.com/mirrorworld-universe/mirrorworld-sdk-android
 - TypeScript SDK - https://github.com/mirrorworld-universe/mirrorworld-sdk-js
 - Unity SDK - https://github.com/mirrorworld-universe/mirrorworld-sdk-unity
-- Documentation Site - https://github.com/mirrorworld-universe/mirrorworld-sdk-android
+- Documentation Site - https://github.com/mirrorworld-universe/docs.mirrorworld.fun
   
 > We also have some private repos to which we have invited hackathon@solana.org as a collaborator.
 
